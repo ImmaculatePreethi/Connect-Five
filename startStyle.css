@@ -1,0 +1,36 @@
+
+    header{
+font-size: xx-large;
+    color: black;
+        font-family:cursive;
+        margin-top: 5%;
+}
+
+body{
+background-color:#14bdac;
+color:#ffffff;
+    min-height: 100%;
+}
+    button{
+        background-color: #0a5c54;
+        border-color: transparent;
+        width: 50%;
+        padding: 5% 2%;
+        border-radius: 75%;
+        font-size: x-large;
+        font-family:cursive;
+    }
+p{
+    font-size: x-large;
+        font-family:cursive;
+    padding: 5% 2%;
+    color: black;
+    cursor: default;
+}
+a{
+    text-decoration: none;
+    font-size: x-large;
+        font-family:cursive;
+    color: black;
+
+}

@@ -1,0 +1,75 @@
+header{
+min-height: 20px;
+min-width: 100%;
+background-color: #404040;
+font-size: x-large;
+    border-radius: 5%;
+    font-family:cursive;
+}
+section{
+
+}
+body{
+background-color:#14bdac;
+color:#ffffff;
+    min-height: 100%;
+}
+div{
+background-color: #14bdac;
+width: 5%;
+    max-height: 1%;
+display: inline-block;
+padding: 2%;
+    font-size: large;
+    color: black;
+    font-weight: bolder;
+    cursor: pointer;
+}
+.top{
+border-left:2px rgb(10, 92, 84) solid;
+border-right:2px  rgb(10, 92, 84)  solid;
+border-bottom:2px rgb(10, 92, 84) solid;
+}
+.connertopleft{
+border-right:2px rgb(10, 92, 84) solid;
+border-bottom:2px rgb(10, 92, 84) solid;
+}
+.connertopright{
+border-left:2px rgb(10, 92, 84) solid;
+border-bottom:2px rgb(10, 92, 84) solid;
+}
+.left{
+border-top:2px rgb(10, 92, 84) solid;
+border-right:2px rgb(10, 92, 84) solid;
+border-bottom:2px rgb(10, 92, 84) solid;
+}
+.right{
+border-top:2px rgb(10, 92, 84) solid;
+border-left:2px rgb(10, 92, 84) solid;
+border-bottom:2px rgb(10, 92, 84) solid;
+}
+.all{
+border:2px rgb(10, 92, 84) solid;
+}
+.bottom{
+border-left:2px rgb(10, 92, 84) solid;
+border-right:2px rgb(10, 92, 84) solid;
+border-top:2px rgba(0, 0, 0, 0.54) solid;
+}
+.connerbottomleft{
+border-right:2px rgb(10, 92, 84) solid;
+border-top:2px rgb(10, 92, 84) solid;
+}
+.connerbottomright{
+border-left:2px rgb(10, 92, 84) solid;
+border-top:2px rgb(10, 92, 84) solid;
+}
+button{
+        background-color: #0a5c54;
+        border-color: transparent;
+        width: 50%;
+        padding: 5% 2%;
+        border-radius: 75%;
+        font-size: x-large;
+        font-family:cursive;
+    }
